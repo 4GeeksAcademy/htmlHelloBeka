@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+    margin: 6% 660px;
+}
+
+.post {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.post-header {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.s {
+    height: 45px;
+}
+
+.html5,
+.Rigoberto {
+    width: 100%;
+    margin: 0
+}
+
+.html5 {
+    display: flex;
+    font-size: 20px;
+    margin-bottom: 0;
+
+}
+
+.Rigoberto {
+    font-size: 15px;
+    margin-top: 0;
+
+}
+
+.trespuntos {
+    height: 50px;
+    padding-left: 455px;
+}
+
+
+.fotoprincipal {
+    width: 100%;
+}
+
+.texto {
+    max-width: 100%;
+}
+
+.corazon,
+.mensaje,
+.compartir,
+.guardar {
+    height: 40px;
+    margin: 0%;
+}
+
+.guardar {
+    margin-left: 428px;
+}
+
+p {
+    text-align: justify;
+    width: 100%;
+
+}
